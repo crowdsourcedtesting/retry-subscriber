@@ -1,6 +1,6 @@
 {
     "name": "guzzlehttp/retry-subscriber",
-    "description": "Retries failed HTTP requests using customizable retry strategies (Guzzle 4+)",
+    "description": "Retries failed HTTP requests using customizable retry strategies (Guzzle 5+)",
     "homepage": "http://guzzlephp.org/",
     "keywords": ["retry", "http", "guzzle"],
     "license": "MIT",
